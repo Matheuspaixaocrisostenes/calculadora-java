@@ -6,5 +6,5 @@
 
 ### Como ultilizar :book:
 - 1 Clone esse repositorio
-- 2 Vá na pasta dis e execulte o arquivo: superCalc.jar 
+- 2 Vá na pasta dist e execulte o arquivo: superCalc.jar 
 - 3 Faça uma conta
